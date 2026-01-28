@@ -1,1 +1,1 @@
-Este es un documento base para empezar a trabajar con github.
+Este es un documento base para empezar a trabajar con github y git en linea
